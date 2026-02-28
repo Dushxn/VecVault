@@ -1,4 +1,4 @@
-# Contributing to VecVault
+# Contributing to VecVault...
 
 Thank you for considering contributing!
 
